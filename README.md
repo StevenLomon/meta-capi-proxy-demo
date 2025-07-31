@@ -181,4 +181,4 @@ MIT License - feel free to use this code as inspiration for your own projects.
 
 ---
 
-**Built by Steven Lomon Lennartsson** | [GitHub](https://github.com/StevenLomon) | [LinkedIn](https://linkedin.com/in/your-profile)
+**Built by Steven Lomon Lennartsson** 🌱
